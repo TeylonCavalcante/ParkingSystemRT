@@ -1,4 +1,4 @@
-ParkRT — Estacionamento Concorrente (A3)
+ParkingSystemRT — Estacionamento Concorrent
 Objetivo
 
 Projeto demonstrativo para a disciplina Sistemas Eletrônicos de Tempo-Real, implementando um estacionamento controlado por mecanismos de concorrência e IPC:
@@ -58,5 +58,6 @@ Executar
 
 
 ou usar o script automático:
+
 
 ./sim_clients.sh
